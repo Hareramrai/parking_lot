@@ -41,7 +41,7 @@ GEM
       ast (~> 2.4.0)
     priority_queue_cxx (0.3.4)
     rainbow (3.0.0)
-    rake (10.5.0)
+    rake (12.3.3)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
@@ -79,7 +79,7 @@ DEPENDENCIES
   dry-initializer
   dry-struct (~> 1.0)
   priority_queue_cxx
-  rake (~> 10.0)
+  rake (~> 12.3)
   rspec (~> 3.0)
   rubocop (~> 0.73.0)
   simplecov
